@@ -2,6 +2,7 @@
 .header {
     display: flex;
     background-color: aqua;
+    align-items: center;
 }
 
 
@@ -14,8 +15,13 @@
     list-style-type: none;
 }
 
-.recipes-menu-item {
+.recipes-menu-item, .link-to-homepage {
     margin: 10px 5px;
-    padding: 10px 20px;
+    padding: 20px 30px;
     background-color: orange;
+}
+
+.link-to-homepage {
+    margin: 25px;
+    margin-left: 40px;
 }
