@@ -1,0 +1,21 @@
+
+.header {
+    display: flex;
+    background-color: aqua;
+}
+
+
+.title {
+    margin-left: 30px;
+}
+
+.recipes-menu {
+    display: flex;
+    list-style-type: none;
+}
+
+.recipes-menu-item {
+    margin: 10px 5px;
+    padding: 10px 20px;
+    background-color: orange;
+}
