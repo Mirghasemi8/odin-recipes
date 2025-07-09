@@ -30,3 +30,9 @@ body {
     margin: 25px;
     margin-left: 40px;
 }
+
+.featured-image {
+    margin: 0px auto;
+    display: block;
+    border: 5px solid #383693;
+}
